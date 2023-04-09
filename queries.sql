@@ -1,6 +1,3 @@
--- COMP3311 23T1 Assignment 1
--- Alexander Burns - z5118440 - 17/03/2023
-
 -- Q1: amount of alcohol in the best beers
 -- Defines a view which displays a list of top-rated beers, their container 
 -- size and type, and their respective ABV values. This view accesses the beers 
